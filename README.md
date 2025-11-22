@@ -42,6 +42,9 @@ Market sales data, internal sales data, product launch data, promotion data.
 
 ## Conclusion
 
+## Note
+This project is based on a DataCamp case study, but all analysis, calculations, and conclusions are performed independently.
+
 ## 👤 About the Author
 **Muhammad Naufaldi**  
 Physics graduate with interest in technology, innovation, and data analysis.
