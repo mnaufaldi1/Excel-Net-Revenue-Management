@@ -38,7 +38,15 @@ Market sales data, internal sales data, product launch data, promotion data.
 2. Promotion Management
 3. Forecasting
 
+## Dashboard
+
 ## Insights 
+- Shinez and Starbust remain top competitors, especially in the South region.
+- Starbust Ultra 100ml is the most valuable SKU, contributing strongly to net sales and maintaining high margins.
+- The Organic Shampoo category shows high growth potential, making it a strong opportunity for portfolio expansion.
+- Launching a 50ml travel-size Starbust Ultra as an opportunity to expand new product with high profit.
+- Among all promotions, Promotion 2 (Buy 2 Get 20% Off) delivered the best ROI at 12%, making it the most effective.
+- Forecasts for 2024 show increased net sales when combining natural growth with organic shampoo launch, travel-size variant launch.
 
 ## Conclusion
 
