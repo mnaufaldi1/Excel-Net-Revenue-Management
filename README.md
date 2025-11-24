@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes the commercial performance of Healthmax, an FMCG company in the shampoo category, using Net Revenue Management (NRM) frameworks. The goal is to understand market KPIs, evaluate pricing strategy, optimize product mix, and forecast future revenue growth.
 
-<img width="1039" height="496" alt="NRM 5 pillars" src="https://github.com/user-attachments/assets/e1bc1bb2-354a-4db4-9976-47e63d92e0ac" />
+<img width="2160" height="1076" alt="Adobe Express - file (2)_imgupscaler ai_V1(Fast)_2K" src="https://github.com/user-attachments/assets/0b151305-aac9-497b-a1fd-d6b1e3cd8179" />
 
 
 ## Objective
@@ -13,8 +13,8 @@ This project analyzes the commercial performance of Healthmax, an FMCG company i
 - Identify best-performing promotions
 - Forecast next year's revenue growth
 
-## Dataset Used
-Market sales data, internal sales data, product launch data, promotion data.
+## Tools
+PivotTables & PivotCharts, SUMIFS / COUNTIFS, XLOOKUP, Power Query, Forecasting Tools
 
 ## Key Questions & KPIs
 - What is the brand’s current market share (YTD, MAT)?
@@ -23,32 +23,31 @@ Market sales data, internal sales data, product launch data, promotion data.
 - What is the expected revenue growth for next year?
 
 ## Process
-### 5.1 KPI Calculations
+### A. KPI Calculations
 1. Sales Growth
 3. Year-to-Date (YTD)
 4. Moving Annual Total (MAT)
 
-### 5.2 Net Revenue Management
+### B. Net Revenue Management
 1. Gross Profit & Margin
 2. Profitability Matrix
 3. New category opportunity
 
-### 5.3 Optimizing Net Revenue
+### C. Optimizing Net Revenue
 1. Price Pack Architecture
 2. Promotion Management
 3. Forecasting
 
 ## Dashboard
+<img width="3098" height="2036" alt="Adobe Express - file (1)_imgupscaler ai_V1(Fast)_2K" src="https://github.com/user-attachments/assets/f29e6cff-fc84-41a7-bee2-ed5ebd291b28" />
 
 ## Insights 
 - Shinez and Starbust remain top competitors, especially in the South region.
-- Starbust Ultra 100ml is the most valuable SKU, contributing strongly to net sales and maintaining high margins.
+- Starbust Ultra 100ml is the most valuable product, contributing strongly to net sales and maintaining high margins.
 - The Organic Shampoo category shows high growth potential, making it a strong opportunity for portfolio expansion.
 - Launching a 50ml travel-size Starbust Ultra as an opportunity to expand new product with high profit.
 - Among all promotions, Promotion 2 (Buy 2 Get 20% Off) delivered the best ROI at 12%, making it the most effective.
 - Forecasts for 2024 show increased net sales when combining natural growth with organic shampoo launch, travel-size variant launch.
-
-## Conclusion
 
 ## Note
 This project is based on a DataCamp case study, but all analysis, calculations, and conclusions are performed independently.
